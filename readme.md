@@ -6,7 +6,7 @@ The website offers two dropdowns (one for district, one for post) through which 
 
 Type of posts = Area panchayat chief, district panchayat president, district panchayat member, area panchayat member, gram panchayat head.
 
-For district panchayat president, we only have one file as a row in this data is a block (816 \approx 822, which is the total number of blocks), and varying the district field in the results doesn't change the results.
+For area panchayat chief and district panchayat president, there is only have one file each.
 
 ### Script
 
